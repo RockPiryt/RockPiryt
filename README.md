@@ -5,7 +5,7 @@
 - 🌱 Stack: Python/ Flask / SQLite/ CSS 3/ Bootstrap/ HTML 5/ GIT/ Github/ Figma/ Photoshop/ GIMP/ MySQL/ JSON/ AWS
 - 
 - 💞️ I’m looking to collaborate on deveopling web app in Python and Flask.
-- 📫 Please visit my personal site: https://rockpiryt.github.io/Personal_Site/
+- 📫 Please visit my personal site: https://rockpiryt.github.io/Resume/
 
 <!---
 RockPiryt/RockPiryt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
