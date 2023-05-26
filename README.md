@@ -1,12 +1,16 @@
 
 
-<h1 align="center">Rock Piryt   <a href="#" target="blank"><img alt="Image of profile-views" src="https://github.com/RockPiryt/RockPiryt/blob/main/logo.jpeg?raw=true" height="30" /></a></h1>
+<h1 align="center">Paulina Kimak</h1>
 
-<p align="center"><a href="https://github.com/RockPiryt/RockPiryt/blob/main/profile_photo.png?raw=true" target="blank"><img align="center" height= "200"src="https://github.com/RockPiryt/RockPiryt/blob/main/profile_photo.png?raw=true" alt="views" /></a><br><em>Paulina Kimak</em></p>
+<p align="center"><a href="#" target="blank"><img alt="Image of profile-views" src="https://github.com/RockPiryt/RockPiryt/blob/main/logo.jpeg?raw=true" height="60" /></a><br><em>Rock Piryt</em></p>
 
 
 
 ---
+
+<h4 align="center">Junior Python Developer from Gdansk, Poland</h4>
+
+<h6 align="center">Github Profile</h6>
 
 <p align="center"> | 
   <a href="https://github.com/RockPiryt" target="blank">
@@ -20,10 +24,6 @@
 
 
 <hr>
-
-<h4 align="center">Junior Python Developer from Gdansk, Poland</h4>
-
-<h6 align="center">Github Profile</h6>
 
 <p align="center"><a href="https://github.com/RockPiryt?tab=repositories">Repositories Site</a> </p>
 
