@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Paulina Kimak</h1>
+<h1 align="center">Paulina Kimak </h1>
 
-<p align="center"><a href="#" target="blank"><img alt="Image of profile-views" src="https://github.com/RockPiryt/RockPiryt/blob/main/logo.jpeg?raw=true" height="60" /></a><br><em>Rock Piryt</em></p>
+<p align="center"><em>Rock Piryt</em></p>
 
 
 
@@ -35,7 +35,7 @@ Collaborative team player focused on scoping projects and achieving objectives w
 
 For many years I was architect and graphic designer. Now I want use my creativity and experience in graphic design to build useful and good looking web application. I built my web app in Python, Flask , SQLite Database, HTML, CSS, Bootstrap.In future I want to create web app in Django Framework and use MySQL database. Now on my Github you can find 2 personal projects in progress- Pregnant_pills and Diesel_On.
 
-<h2 align="center">📌 Pinned Repos</h2>
+<h2 align="center">Pinned Repos</h2>
 
   <p float="left">
 
@@ -116,26 +116,6 @@ For many years I was architect and graphic designer. Now I want use my creativit
 - Portfolio: [Devfolio](#)
 
 
-
-<h2 align="center">📌 Pinned Repos</h2>
-
-<p align="center">
- <a href="https://github.com/RockPiryt/Pregnant_pills">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=pregnant_pills&show_owner=true&theme=transparent">
- </a>
-</p>
-
-<p align="center">
- <a href="https://github.com/RockPiryt/DieselApp">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=dieselapp&show_owner=true&theme=transparent">
- </a>
-</p>
-
-<p align="center">
- <a href="https://github.com/jimbrig/lossrx">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=baby_food_app&show_owner=true&theme=transparent">
- </a>
-</p>
 
 
 
