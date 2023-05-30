@@ -13,7 +13,7 @@
 
 <p align="center">
   <h4 align="center">Personal site with resume and portfolio:</h4>
-  <a href="https://github.com/RockPiryt" target="blank" align="center">
+  <a href="https://rockpiryt.github.io/Resume/" target="blank" align="center">
     <p>https://rockpiryt.github.io/Resume/</p>
   </a>  
   <h4 align="center">Name card:</h4>
