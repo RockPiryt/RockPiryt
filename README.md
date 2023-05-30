@@ -1,29 +1,32 @@
 
 
-<h1 align="center">Paulina Kimak </h1>
+<h3 align="center">Paulina Kimak <em>(Rock Piryt)</em> </h3>
 
-<p align="center"><em>Rock Piryt</em></p>
+<h1 align="center">Python Developer from Gdansk, Poland</h1>
 
 
 
----
 
-<h4 align="center">Junior Python Developer from Gdansk, Poland</h4>
 
-<h6 align="center">Follow my profiles:</h6>
 
-<p align="center"> | 
-  <a href="https://github.com/RockPiryt" target="blank">
-    <img align="center" src="https://img.shields.io/github/followers/rockpiryt?label=Follow&style=social" alt="github" />
-  </a> | 
-  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="18px" />
-  </a> |  
+<h6 align="center">Visti my sites:</h6>
+
+<p align="center">
+  <h4 align="center">Personal site with resume and portfolio:</h4>
+  <a href="https://github.com/RockPiryt" target="blank" align="center">
+    <p>https://rockpiryt.github.io/Resume/</p>
+  </a>  
+  <h4 align="center">Name card:</h4>
+  <a href="https://rockpiryt.github.io/Personal_name_card/" target="blank" align="center">
+    <p>https://rockpiryt.github.io/Personal_name_card/</p>  
+  </a>  
+  <h4 align="center">LinkedIn profile:</h4>
+  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/" target="blank" align="center">
+  <p>https://www.linkedin.com/in/paulina-kimak-rockpiryt</p>  
+  </a>  
 </p>
 
 
-
-<hr>
 
 <h2 align="center">About Me</h2>
 
@@ -57,7 +60,7 @@ For many years I was architect and graphic designer. Now I want use my creativit
   </p>
 
 
-<h2 align="center">🛠 Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockpiryt&layout=compact&theme=transparent" alt="RockPiryt" /></p>
 
 <h4 align="left">Programing Languages:</h4>
@@ -112,6 +115,18 @@ For many years I was architect and graphic designer. Now I want use my creativit
 <br>
 
 <h2 align="center">📃 Content</h2>
+
+<h6 align="center">Follow my profiles:</h6>
+
+<p align="center"> | 
+  <a href="https://github.com/RockPiryt" target="blank">
+    <img align="center" src="https://img.shields.io/github/followers/rockpiryt?label=Follow&style=social" alt="github" />
+  </a> | 
+  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="18px" />
+  </a> |  
+</p>
+
 
 - Portfolio: [Devfolio](#)
 
