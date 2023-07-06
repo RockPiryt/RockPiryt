@@ -30,15 +30,10 @@
 
 <h2 align="center">About Me</h2>
 
-I'am a hard-working Python Developer and a creative Architect.
+I'm a hard-working programmer focus on Python language. Now on my Github you can find 5 personal projects in progress - 4 Flask web app and 2 Tkinter app.
+To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Selenium /Beatful Soup) to get information.  To work with data I use Pandas and to store information SQLite database. I keen on to learning new tech stack - now I develop my skills in Django and data analysis using Anaconda.
 
-I'm using Python and Flask framework to develop software within a wide variety of industries. Successful history of making web applications.
-
-Collaborative team player focused on scoping projects and achieving objectives with speed and accuracy.
-
-For many years I was architect and graphic designer. Now I want use my creativity and experience in graphic design to build useful and good looking web application. I built my web app in Python, Flask , SQLite Database, HTML, CSS, Bootstrap.In future I want to create web app in Django Framework and use MySQL database. Now on my Github you can find 2 personal projects in progress- Pregnant_pills and Diesel_On.
-
-<h2 align="center">Pinned Repos</h2>
+<h2 align="center">My projects</h2>
 
   <p float="left">
 
@@ -51,13 +46,18 @@ For many years I was architect and graphic designer. Now I want use my creativit
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=resume&show_owner=true&theme=transparent">
    </a>
 
+   <a href="https://github.com/RockPiryt/Pregnant_pills">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=pregnant_pills&show_owner=true&theme=transparent">
+   </a>
+
+   <a href="https://github.com/RockPiryt/Arch_blog">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=arch_blog&show_owner=true&theme=transparent">
+   </a>
+
    <a href="https://github.com/jimbrig/lossrx">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=baby_food_app&show_owner=true&theme=transparent">
    </a>
 
-   <a href="https://github.com/RockPiryt/Pregnant_pills">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=pregnant_pills&show_owner=true&theme=transparent">
-   </a>
 
    <a href="https://github.com/RockPiryt/password_generator">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=password_generator&show_owner=true&theme=transparent">
