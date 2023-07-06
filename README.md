@@ -42,8 +42,13 @@ For many years I was architect and graphic designer. Now I want use my creativit
 
   <p float="left">
 
-   <a href="https://github.com/RockPiryt/DieselApp">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=dieselapp&show_owner=true&theme=transparent">
+
+   <a href="https://github.com/RockPiryt/Diesel_API">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=diesel_api&show_owner=true&theme=transparent">
+   </a>
+   
+   <a href="https://github.com/RockPiryt/Resume">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=resume&show_owner=true&theme=transparent">
    </a>
 
    <a href="https://github.com/jimbrig/lossrx">
