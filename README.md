@@ -81,6 +81,8 @@ To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Sele
 
 <h4 align="left">Storage:</h4>
 <p float="left">
+<img alt='PostgreSQL' src="https://img.shields.io/badge/PostgreSQL-0a660c">
+
 <img alt='SQLite' src="https://img.shields.io/badge/sqlite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
@@ -91,7 +93,9 @@ To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Sele
 
 <h4 align="left">Web Development:</h4>
 <p float="left">
-<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt='Django' src="https://img.shields.io/badge/Django-d96d1f">
+  <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-551091">
 </p>
 
 <h4 align="left">Cloud technologies:</h4>
