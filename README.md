@@ -54,7 +54,7 @@ To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Sele
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=arch_blog&show_owner=true&theme=transparent">
    </a>
 
-   <a href="https://github.com/jimbrig/lossrx">
+   <a href="https://github.com/RockPiryt/Baby_food_app">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=baby_food_app&show_owner=true&theme=transparent">
    </a>
 
