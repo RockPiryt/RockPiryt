@@ -33,6 +33,8 @@
 I'm a hard-working programmer focus on Python language. Now on my Github you can find 5 personal projects in progress - 4 Flask web app and 2 Tkinter app.
 To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Selenium /Beatful Soup) to get information.  To work with data I use Pandas and to store information SQLite database. I keen on to learning new tech stack - now I develop my skills in Django and data analysis using Anaconda.
 
+<h2 align="center">My achivements</h2>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4a75e0b-64cd-4a48-888d-a36be3b032b9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <h2 align="center">My projects</h2>
 
   <p float="left">
