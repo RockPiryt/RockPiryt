@@ -31,12 +31,12 @@ To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Sele
 
 <h2 align="center">My achivements</h2>
 
-  <h2 align="center">
+  <h5 align="center">
     <img src="aws-certified-cloud-practitioner.png" alt="AWS badge Cloud Practitioner">
-    <p align="center">
-      <a href="[AWS badge  Cloud Practitioner](https://www.credly.com/badges/e4a75e0b-64cd-4a48-888d-a36be3b032b9/public_url)"> AWS Certificate Cloud Practitioner</a>
-    </p>
-  </h2>
+      <a href="https://www.credly.com/badges/e4a75e0b-64cd-4a48-888d-a36be3b032b9/public_url"> 
+        <p>AWS Certified Cloud Practitioner  - badge Paulina Kimak</p>
+      </a>
+  </h5>
 
 
 <h2 align="center">My projects</h2>
