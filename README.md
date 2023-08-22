@@ -13,13 +13,9 @@
 
 <p align="center">
   <h4 align="center">Personal site with resume and portfolio:</h4>
-  <a href="https://rockpiryt.github.io/Resume/" target="blank" align="center">
-    <p>https://rockpiryt.github.io/Resume/</p>
-  </a>  
-  <h4 align="center">Name card:</h4>
-  <a href="https://rockpiryt.github.io/Personal_name_card/" target="blank" align="center">
-    <p>https://rockpiryt.github.io/Personal_name_card/</p>  
-  </a>  
+  <a href="http://paulinakimak.com" target="blank" align="center">
+    <p>paulinakimak.com</p>
+  </a>   
   <h4 align="center">LinkedIn profile:</h4>
   <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/" target="blank" align="center">
   <p>https://www.linkedin.com/in/paulina-kimak-rockpiryt</p>  
@@ -136,6 +132,11 @@ To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Sele
 <h2 align="center">📃 Content</h2>
 
 <h6 align="center">Follow my profiles:</h6>
+
+<h4 align="center">Name card:</h4>
+<a href="https://rockpiryt.github.io/Personal_name_card/" target="blank" align="center">
+  <p>https://rockpiryt.github.io/Personal_name_card/</p>  
+</a>  
 
 <p align="center"> | 
   <a href="https://github.com/RockPiryt" target="blank">
