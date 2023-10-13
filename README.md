@@ -36,7 +36,7 @@ To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Sele
       <a href="https://www.credly.com/badges/e4a75e0b-64cd-4a48-888d-a36be3b032b9/public_url"> 
         <p>AWS Certified Cloud Practitioner  - badge Paulina Kimak</p>
       </a>
-    <img src="aws-cloud-quest-cloud-practitioner.png" alt="AWS badge Cloud Practitioner">
+    <img src="aws-cloud-quest-cloud-practitioner(1).png" alt="AWS badge Cloud Practitioner">
       <a href="https://www.credly.com/badges/d0f45f78-b29d-47b2-9c07-26e5d325878e/public_url"> 
         <p>AWS Cloud Quest: Cloud Practitioner  - badge Paulina Kimak</p>
       </a>
