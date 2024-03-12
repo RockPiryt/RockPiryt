@@ -25,9 +25,16 @@
 
 
 <h2 align="center">About Me</h2>
+I have a deep interest in cloud technologies. In August 2023, I successfully passed the official AWS exam, earning the AWS Certified Cloud Practitioner certification. My next goal is to pass the AWS Developer Exam.
 
-I'm a hard-working programmer focus on Python language. Now on my Github you can find 5 personal projects in progress - 4 Flask web app and 2 Tkinter app.
-To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Selenium /Beatful Soup) to get information.  To work with data I use Pandas and to store information SQLite database. I keen on to learning new tech stack - now I develop my skills in Django and data analysis using Anaconda.
+To achieve my target, I participate in official AWS Cloud Quests and create real projects using AWS services. For serverless applications, I utilize Lambda, API Gateway, and DynamoDB. For standard applications, I deploy EC2 instances and RDS databases.
+
+I prioritize building solid fundamentals, so I am continuously expanding my knowledge in object-oriented programming, data structures, and algorithms.
+
+Moreover, I am an open and collaborative individual with strong communication skills. I am good in teamwork and am eager to learn from others. As a dedicated programmer, I am constantly developing my career by undertaking numerous interesting projects. Currently, you can find six personal projects on my GitHub repository.
+
+I would greatly appreciate your feedback on my projects.
+
 
 <h2 align="center">My achivements</h2>
 
@@ -71,8 +78,8 @@ To deploy my web app I use an AWS cloud.   I use free APIs and webscraping (Sele
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=arch_blog&show_owner=true&theme=transparent">
    </a>
 
-   <a href="https://github.com/RockPiryt/Baby_food_app">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=baby_food_app&show_owner=true&theme=transparent">
+   <a href="https://github.com/RockPiryt/Django_Blog">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=django_blog&show_owner=true&theme=transparent">
    </a>
 
 
