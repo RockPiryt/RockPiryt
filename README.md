@@ -62,21 +62,21 @@ I would greatly appreciate your feedback on my projects.
   <p float="left">
 
 
-   <a href="https://github.com/RockPiryt/Diesel_API">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=diesel_api&show_owner=true&theme=transparent">
+   <a href="https://github.com/RockPiryt/NBP_API">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=nbp_api&show_owner=true&theme=transparent">
+   </a>
+   <a href="https://github.com/RockPiryt/Pregnant_pills">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=pregnant_pills&show_owner=true&theme=transparent">
    </a>
    
    <a href="https://github.com/RockPiryt/Resume">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=resume&show_owner=true&theme=transparent">
    </a>
 
-   <a href="https://github.com/RockPiryt/Pregnant_pills">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=pregnant_pills&show_owner=true&theme=transparent">
+   <a href="https://github.com/RockPiryt/Diesel_API">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=diesel_api&show_owner=true&theme=transparent">
    </a>
 
-   <a href="https://github.com/RockPiryt/Arch_blog">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=arch_blog&show_owner=true&theme=transparent">
-   </a>
 
    <a href="https://github.com/RockPiryt/Django_Blog">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=django_blog&show_owner=true&theme=transparent">
