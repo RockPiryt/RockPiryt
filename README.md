@@ -45,14 +45,12 @@ I have a deep interest in cloud technologies. In August 2023, I successfully pas
 
 To achieve my target, I participate in official AWS Cloud Quests and create real projects using AWS services. For serverless applications, I utilize Lambda, API Gateway, and DynamoDB. For standard applications, I deploy EC2 instances and RDS databases.
 
-I prioritize building solid fundamentals, so I am continuously expanding my knowledge in object-oriented programming, data structures, and algorithms.
-
-Moreover, I am an open and collaborative individual with strong communication skills. I am good in teamwork and am eager to learn from others. As a dedicated programmer, I am constantly developing my career by undertaking numerous interesting projects. Currently, you can find six personal projects on my GitHub repository.
-
-I would greatly appreciate your feedback on my projects.
-
 
 <h2 align="center">My achivements</h2>
+
+
+As a dedicated programmer, I am constantly developing my career by undertaking numerous interesting projects. Currently, you can find six personal projects on my GitHub repository.
+I would greatly appreciate your feedback on my projects.
 
   <h5 align="center">
     <img src="aws-certified-cloud-practitioner.png" alt="AWS badge Cloud Practitioner">
