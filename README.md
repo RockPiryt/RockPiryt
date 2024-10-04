@@ -2,7 +2,7 @@
 
 <h3 align="center">Paulina Kimak <em>(Rock Piryt)</em> </h3>
 
-<h1 align="center">Python Developer from Gdansk, Poland</h1>
+<h1 align="center"> Cloud Software Development Intern at Intel Technology Poland Sp. z o.o.</h1>
 
 
 
