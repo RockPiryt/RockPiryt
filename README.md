@@ -25,6 +25,22 @@
 
 
 <h2 align="center">About Me</h2>
+
+Since July 2024, I have been working as a Cloud Software Development Intern at Intel Technology Poland Sp. z o.o.
+
+Currently, I am developing my skills in areas such as:
+
+- CI/CD: Argo, Jenkins, GitHub
+- Observability: Prometheus, Grafana
+- Containers and Orchestration: Docker, Kubernetes
+- Cloud Services: AWS
+- Linux: Ubuntu
+- Languages: Python, C, Golang
+  
+I am also expanding my theoretical knowledge during my second year of studies at the University of Gdańsk.
+At the moment, I am currently preparing to obtain the CKA: Certified Kubernetes Administrator certification before the end of 2024.
+
+<h2 align="center">AWS interest</h2>
 I have a deep interest in cloud technologies. In August 2023, I successfully passed the official AWS exam, earning the AWS Certified Cloud Practitioner certification. My next goal is to pass the AWS Developer Exam.
 
 To achieve my target, I participate in official AWS Cloud Quests and create real projects using AWS services. For serverless applications, I utilize Lambda, API Gateway, and DynamoDB. For standard applications, I deploy EC2 instances and RDS databases.
