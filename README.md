@@ -38,7 +38,7 @@ Currently, I am developing my skills in areas such as:
 - Languages: Python, C, Golang
   
 I am also expanding my theoretical knowledge during my second year of studies at the University of Gdańsk.
-At the moment, I am currently preparing to obtain the CKA: Certified Kubernetes Administrator certification before the end of 2024.
+At the moment, I am preparing to obtain the CKAD: Certified Kubernetes Application Developer certification in August 2025.
 
 <h2 align="center">AWS interest</h2>
 I have a deep interest in cloud technologies. In August 2023, I successfully passed the official AWS exam, earning the AWS Certified Cloud Practitioner certification. My next goal is to pass the AWS Developer Exam.
