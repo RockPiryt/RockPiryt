@@ -28,20 +28,29 @@
 
 Since July 2024, I have been working as a Cloud Software Development Intern at Intel Technology Poland Sp. z o.o.
 
-Currently, I am developing my skills in areas such as:
+In October 2025 I have successfully passed the Certified Kubernetes Application Developer (CKAD) exam.
 
-- CI/CD: Argo, Jenkins, GitHub
-- Observability: Prometheus, Grafana
-- Containers and Orchestration: Docker, Kubernetes
-- Cloud Services: AWS
-- Linux: Ubuntu
-- Languages: Python, C, Golang
-  
-I am also expanding my theoretical knowledge during my second year of studies at the University of Gdańsk.
-At the moment, I am preparing to obtain the CKAD: Certified Kubernetes Application Developer certification in August 2025.
+<h2 align="center">Mentorship</h2>
+Currently, I am deploying a web application on a Kubernetes cluster hosted on AWS, under the mentorship of a DevOps engineer who provides guidance and feedback on architecture, scalability, and best practices.
+This collaboration helps me deepen my hands-on experience with Kubernetes, CI/CD pipelines, and cloud infrastructure.
+
+
+I design, implement, and test cloud-native solutions using the following tools and technologies:
+
+- Infrastructure as Code: Terraform
+- CI/CD: GitHub Actions, ArgoCD
+- Containers & Orchestration: Docker, Kubernetes
+- Cloud Platform: AWS
+- Observability & Monitoring: Prometheus, Grafana
+- Operating System: Ubuntu (Linux)
+- Programming Language: Python
+
+This setup allows me to apply DevOps best practices, automate deployments, and gain hands-on experience in cloud infrastructure management.
+
 
 <h2 align="center">AWS interest</h2>
-I have a deep interest in cloud technologies. In August 2023, I successfully passed the official AWS exam, earning the AWS Certified Cloud Practitioner certification. My next goal is to pass the AWS Developer Exam.
+I have a deep interest in cloud technologies. In August 2023, I successfully passed the official AWS exam, earning the AWS Certified Cloud Practitioner certification.
+My next professional goal is to earn the AWS Certified Solutions Architect certification and continue developing towards a Platform Engineer / DevOps role.
 
 To achieve my target, I participate in official AWS Cloud Quests and create real projects using AWS services. For serverless applications, I utilize Lambda, API Gateway, and DynamoDB. For standard applications, I deploy EC2 instances and RDS databases.
 
@@ -49,10 +58,11 @@ To achieve my target, I participate in official AWS Cloud Quests and create real
 <h2 align="center">My achivements</h2>
 
 
-As a dedicated programmer, I am constantly developing my career by undertaking numerous interesting projects. Currently, you can find six personal projects on my GitHub repository.
-I would greatly appreciate your feedback on my projects.
-
   <h5 align="center">
+    <img src="ckad.png" alt="CKAD badge">
+      <a href="https://www.credly.com/badges/d6f42964-4b91-44e9-9263-26af4c8da5c2/public_url"> 
+        <p>CKAD  - badge Paulina Kimak</p>
+      </a>
     <img src="aws-certified-cloud-practitioner.png" alt="AWS badge Cloud Practitioner">
       <a href="https://www.credly.com/badges/e4a75e0b-64cd-4a48-888d-a36be3b032b9/public_url"> 
         <p>AWS Certified Cloud Practitioner  - badge Paulina Kimak</p>
@@ -72,7 +82,8 @@ I would greatly appreciate your feedback on my projects.
 
 
 <h2 align="center">My projects</h2>
-
+As a dedicated programmer, I am constantly developing my career by undertaking numerous interesting projects. Currently, you can find six personal projects on my GitHub repository.
+I would greatly appreciate your feedback on my projects
   <p float="left">
 
 
