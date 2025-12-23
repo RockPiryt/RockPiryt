@@ -2,7 +2,7 @@
 
 <h3 align="center">Paulina Kimak <em>(Rock Piryt)</em> </h3>
 
-<h1 align="center"> Cloud Software Development Intern at Intel</h1>
+<h1 align="center"> Cloud Software Development Engineer at Intel</h1>
 
 
 
@@ -26,7 +26,7 @@
 
 <h2 align="center">About Me</h2>
 
-Since July 2024, I have been working as a Cloud Software Development Intern at Intel Technology Poland Sp. z o.o.
+Since July 2024, I have been working as a Cloud Software Development Engineer at Intel Technology Poland Sp. z o.o. (Internship)
 
 In October 2025 I have successfully passed the Certified Kubernetes Application Developer (CKAD) exam.
 
