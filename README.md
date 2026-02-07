@@ -68,11 +68,11 @@ To achieve my target, I participate in official AWS Cloud Quests and create real
       <a href="https://www.credly.com/badges/8426517b-4309-44e0-97d4-ae41fb361467/public_url"> 
         <p>AWS Cloud Quest: Solution Architect  - badge Paulina Kimak</p>
       </a>
-    <img src="a.png" alt="CCNA: Introduction to Networks">
+    <img src="ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks">
       <a href="https://www.credly.com/badges/3db11f42-c471-4d8d-ae85-1c43516317fe/public_url"> 
         <p>CCNA: Introduction to Network - badge Paulina Kimak</p>
       </a>
-    <img src="b.png" alt="CCNA: Switching, Routing, and Wireless Essentials">
+    <img src="ccna-switching-routing-and-wireless-essentials.1.png" alt="CCNA: Switching, Routing, and Wireless Essentials">
       <a href="https://www.credly.com/badges/c2e5efaf-9641-4628-a5d7-36fec8dd904a/public_url"> 
         <p>CCNA: Switching, Routing, and Wireless Essentials - badge Paulina Kimak</p>
       </a>
