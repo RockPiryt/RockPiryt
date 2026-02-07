@@ -4,11 +4,6 @@
 
 <h1 align="center"> Cloud Software Development Engineer at Intel</h1>
 
-
-
-
-
-
 <h6 align="center">Visti my sites:</h6>
 
 <p align="center">
@@ -21,8 +16,6 @@
   <p>https://www.linkedin.com/in/paulina-kimak-rockpiryt</p>  
   </a>  
 </p>
-
-
 
 <h2 align="center">About Me</h2>
 
@@ -74,6 +67,14 @@ To achieve my target, I participate in official AWS Cloud Quests and create real
     <img src="aws-cloud-quest-solutions-architect (3).png" alt="AWS badge Solution Architect">
       <a href="https://www.credly.com/badges/8426517b-4309-44e0-97d4-ae41fb361467/public_url"> 
         <p>AWS Cloud Quest: Solution Architect  - badge Paulina Kimak</p>
+      </a>
+    <img src="a.png" alt="CCNA: Introduction to Networks">
+      <a href="https://www.credly.com/badges/3db11f42-c471-4d8d-ae85-1c43516317fe/public_url"> 
+        <p>CCNA: Introduction to Network - badge Paulina Kimak</p>
+      </a>
+    <img src="b.png" alt="CCNA: Switching, Routing, and Wireless Essentials">
+      <a href="https://www.credly.com/badges/c2e5efaf-9641-4628-a5d7-36fec8dd904a/public_url"> 
+        <p>CCNA: Switching, Routing, and Wireless Essentials - badge Paulina Kimak</p>
       </a>
     
   </h5>
