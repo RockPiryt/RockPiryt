@@ -4,18 +4,19 @@
 
 <h1 align="center"> Cloud Software Development Engineer at Intel</h1>
 
-<h6 align="center">Visti my sites:</h6>
+<h6 align="center">Visit my sites:</h6>
 
-<p align="center">
-  <h4 align="center">Personal site with resume and portfolio:</h4>
-  <a href="http://paulinakimak.com" target="blank" align="center">
-    <p>paulinakimak.com</p>
-  </a>   
-  <h4 align="center">LinkedIn profile:</h4>
-  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/" target="blank" align="center">
-  <p>https://www.linkedin.com/in/paulina-kimak-rockpiryt</p>  
-  </a>  
-</p>
+<div align="center">
+  <h4>Personal site with resume and portfolio</h4>
+  <a href="http://paulinakimak.com" target="_blank">paulinakimak.com</a>
+
+  <br/><br/>
+
+  <h4>LinkedIn profile</h4>
+  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/" target="_blank">
+    linkedin.com/in/paulina-kimak-rockpiryt
+  </a>
+</div>
 
 <h2 align="center">About Me</h2>
 
@@ -48,36 +49,52 @@ My next professional goal is to earn the AWS Certified Solutions Architect certi
 To achieve my target, I participate in official AWS Cloud Quests and create real projects using AWS services. For serverless applications, I utilize Lambda, API Gateway, and DynamoDB. For standard applications, I deploy EC2 instances and RDS databases.
 
 
-<h2 align="center">My achivements</h2>
+<h2 align="center">My achievements</h2>
 
+<h3 align="center">Kubernetes</h3>
+<div align="center">
+  <a href="https://www.credly.com/badges/d6f42964-4b91-44e9-9263-26af4c8da5c2/public_url" target="_blank">
+    <img src="ckad.png" alt="CKAD badge" width="120" />
+  </a>
+  <br/>
+  <sub><b>CKAD</b> — Certified Kubernetes Application Developer</sub>
+</div>
 
-  <h5 align="center">
-    <img src="ckad.png" alt="CKAD badge">
-      <a href="https://www.credly.com/badges/d6f42964-4b91-44e9-9263-26af4c8da5c2/public_url"> 
-        <p>CKAD  - badge Paulina Kimak</p>
-      </a>
-    <img src="aws-certified-cloud-practitioner.png" alt="AWS badge Cloud Practitioner">
-      <a href="https://www.credly.com/badges/e4a75e0b-64cd-4a48-888d-a36be3b032b9/public_url"> 
-        <p>AWS Certified Cloud Practitioner  - badge Paulina Kimak</p>
-      </a>
-    <img src="aws-cloud-quest-cloud-practitioner (1).png" alt="AWS badge Cloud Practitioner">
-      <a href="https://www.credly.com/badges/d0f45f78-b29d-47b2-9c07-26e5d325878e/public_url"> 
-        <p>AWS Cloud Quest: Cloud Practitioner  - badge Paulina Kimak</p>
-      </a>
-    <img src="aws-cloud-quest-solutions-architect (3).png" alt="AWS badge Solution Architect">
-      <a href="https://www.credly.com/badges/8426517b-4309-44e0-97d4-ae41fb361467/public_url"> 
-        <p>AWS Cloud Quest: Solution Architect  - badge Paulina Kimak</p>
-      </a>
-    <img src="ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks">
-      <a href="https://www.credly.com/badges/3db11f42-c471-4d8d-ae85-1c43516317fe/public_url"> 
-        <p>CCNA: Introduction to Network - badge Paulina Kimak</p>
-      </a>
-    <img src="ccna-switching-routing-and-wireless-essentials.1.png" alt="CCNA: Switching, Routing, and Wireless Essentials">
-      <a href="https://www.credly.com/badges/c2e5efaf-9641-4628-a5d7-36fec8dd904a/public_url"> 
-        <p>CCNA: Switching, Routing, and Wireless Essentials - badge Paulina Kimak</p>
-      </a>
-    
-  </h5>
+<br/>
+
+<h3 align="center">AWS</h3>
+<div align="center">
+  <a href="https://www.credly.com/badges/e4a75e0b-64cd-4a48-888d-a36be3b032b9/public_url" target="_blank">
+    <img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/d0f45f78-b29d-47b2-9c07-26e5d325878e/public_url" target="_blank">
+    <img src="aws-cloud-quest-cloud-practitioner (1).png" alt="AWS Cloud Quest: Cloud Practitioner" width="120" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/8426517b-4309-44e0-97d4-ae41fb361467/public_url" target="_blank">
+    <img src="aws-cloud-quest-solutions-architect (3).png" alt="AWS Cloud Quest: Solution Architect" width="120" />
+  </a>
+
+  <br/>
+  <sub><b>AWS</b> — Cloud Practitioner + Cloud Quests</sub>
+</div>
+
+<br/>
+
+<h3 align="center">Cisco</h3>
+<div align="center">
+  <a href="https://www.credly.com/badges/3db11f42-c471-4d8d-ae85-1c43516317fe/public_url" target="_blank">
+    <img src="ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="120" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/c2e5efaf-9641-4628-a5d7-36fec8dd904a/public_url" target="_blank">
+    <img src="ccna-switching-routing-and-wireless-essentials.1.png" alt="CCNA: Switching, Routing, and Wireless Essentials" width="120" />
+  </a>
+
+  <br/>
+  <sub><b>CCNA</b> — 2/3 courses completed (badges earned)</sub>
+</div>
 
 
 
