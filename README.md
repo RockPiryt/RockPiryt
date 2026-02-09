@@ -182,35 +182,37 @@ Production-style projects focused on Kubernetes, CI/CD, observability and cloud-
 
 <br>
 
-<h2 align="center">📃 Content</h2>
+<h2 align="center">Contact</h2>
 
-<h6 align="center">Follow my profiles:</h6>
+<p align="center">
+  <a href="https://github.com/RockPiryt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://rockpiryt.github.io/Resume/">
+    <img src="https://img.shields.io/badge/Resume-0A1244?style=for-the-badge"/>
+  </a>
+</p>
 
-<h4 align="center">Name card:</h4>
-<a href="https://rockpiryt.github.io/Personal_name_card/" target="blank" align="center">
-  <p>https://rockpiryt.github.io/Personal_name_card/</p>  
-</a>  
+<p align="center">
+Cloud-Native / DevOps Engineer • Kubernetes • CI/CD • Observability • Linux
+</p>
 
-<p align="center"> | 
-  <a href="https://github.com/RockPiryt" target="blank">
-    <img align="center" src="https://img.shields.io/github/followers/rockpiryt?label=Follow&style=social" alt="github" />
-  </a> | 
-  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="18px" />
-  </a> |  
+<br>
+
+<p align="center">
+  <sub>
+    Built with Kubernetes, coffee, and late-night debugging ☕  
+    <br>
+    © 2026 Paulina Kimak
+  </sub>
 </p>
 
 
-- Portfolio: [Devfolio](#)
 
 
-
-
-
-
----
-
-Paulina Kimak <https://rockpiryt.github.io/Resume/> | 2023
 
 
 
