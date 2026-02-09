@@ -99,37 +99,26 @@ To achieve my target, I participate in official AWS Cloud Quests and create real
 
 
 
-<h2 align="center">My projects</h2>
-As a dedicated programmer, I am constantly developing my career by undertaking numerous interesting projects. Currently, you can find six personal projects on my GitHub repository.
-I would greatly appreciate your feedback on my projects
-  <p float="left">
+<h2 align="center">Cloud & DevOps Projects</h2>
+<p align="center">
+Production-style projects focused on Kubernetes, CI/CD, observability and cloud-native infrastructure.
+</p>
 
+<p align="center">
 
-   <a href="https://github.com/RockPiryt/NBP_API">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=nbp_api&show_owner=true&theme=transparent">
-   </a>
-   <a href="https://github.com/RockPiryt/Pregnant_pills">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=pregnant_pills&show_owner=true&theme=transparent">
-   </a>
-   
-   <a href="https://github.com/RockPiryt/Resume">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=resume&show_owner=true&theme=transparent">
-   </a>
+<a href="https://github.com/RockPiryt/Pregnant_pills">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=pregnant_pills&theme=transparent&hide_border=true">
+</a>
 
-   <a href="https://github.com/RockPiryt/Diesel_API">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=diesel_api&show_owner=true&theme=transparent">
-   </a>
+<a href="https://github.com/RockPiryt/NBP_API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=nbp_api&theme=transparent&hide_border=true">
+</a>
 
+<a href="https://github.com/RockPiryt/Diesel_API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=diesel_api&theme=transparent&hide_border=true">
+</a>
 
-   <a href="https://github.com/RockPiryt/Django_Blog">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=django_blog&show_owner=true&theme=transparent">
-   </a>
-
-
-   <a href="https://github.com/RockPiryt/password_generator">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=password_generator&show_owner=true&theme=transparent">
-   </a>
-  </p>
+</p>
 
 
 <h2 align="center">Languages and Tools</h2>
