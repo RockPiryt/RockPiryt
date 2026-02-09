@@ -4,19 +4,19 @@
 
 <h1 align="center"> Cloud Software Development Engineer at Intel</h1>
 
-<h6 align="center">Visit my sites:</h6>
+<p align="center">
+  <sub>Cloud-Native • Kubernetes • CI/CD • Observability • Linux</sub>
+</p>
 
-<div align="center">
-  <h4>Personal site with resume and portfolio</h4>
-  <a href="http://paulinakimak.com" target="_blank">paulinakimak.com</a>
-
-  <br/><br/>
-
-  <h4>LinkedIn profile</h4>
-  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/" target="_blank">
-    linkedin.com/in/paulina-kimak-rockpiryt
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+  <a href="https://github.com/RockPiryt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
 <h2 align="center">About Me</h2>
 
@@ -146,33 +146,20 @@ To achieve my target, I participate in official AWS Cloud Quests and create real
 
 <br>
 
+<br>
+
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="https://github.com/RockPiryt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://rockpiryt.github.io/Resume/">
-    <img src="https://img.shields.io/badge/Resume-0A1244?style=for-the-badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/paulina-kimak-rockpiryt/">LinkedIn</a> •
+  <a href="https://github.com/RockPiryt">GitHub</a> •
+  <a href="https://rockpiryt.github.io/Resume/">Resume</a>
 </p>
 
 <p align="center">
-Cloud-Native / DevOps Engineer • Kubernetes • CI/CD • Observability • Linux
+  <sub>© 2026 Paulina Kimak</sub>
 </p>
 
-<br>
-
-<p align="center">
-  <sub>
-    Built with Kubernetes, coffee, and late-night debugging ☕  
-    <br>
-    © 2026 Paulina Kimak
-  </sub>
-</p>
 
 
 
