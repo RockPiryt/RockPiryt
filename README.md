@@ -96,31 +96,6 @@ To achieve my target, I participate in official AWS Cloud Quests and create real
   <sub><b>CCNA</b> — 2/3 courses completed (badges earned)</sub>
 </div>
 
-
-
-
-<h2 align="center">Cloud & DevOps Projects</h2>
-<p align="center">
-Production-style projects focused on Kubernetes, CI/CD, observability and cloud-native infrastructure.
-</p>
-
-<p align="center">
-
-<a href="https://github.com/RockPiryt/Pregnant_pills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=pregnant_pills&theme=transparent&hide_border=true">
-</a>
-
-<a href="https://github.com/RockPiryt/NBP_API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=nbp_api&theme=transparent&hide_border=true">
-</a>
-
-<a href="https://github.com/RockPiryt/Diesel_API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockpiryt&repo=diesel_api&theme=transparent&hide_border=true">
-</a>
-
-</p>
-
-
 <h2 align="center">Languages and Tools</h2>
 
 <h4>Programming</h4>
@@ -128,8 +103,9 @@ Production-style projects focused on Kubernetes, CI/CD, observability and cloud-
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img alt="C" src="https://img.shields.io/badge/C-0A1244?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
+
 
 <h4>Cloud & Infrastructure</h4>
 <p>
@@ -165,18 +141,6 @@ Production-style projects focused on Kubernetes, CI/CD, observability and cloud-
 <p>
   <img alt="Networking" src="https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20DHCP%20%7C%20NAT%20%7C%20CIDR%20%7C%20Routing-0A1244?style=for-the-badge"/>
   <img alt="AWS VPC" src="https://img.shields.io/badge/AWS%20VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-<h2 align="center">Developer Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RockPiryt&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockPiryt&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0a1244/rockpiryt" alt="RockPiryt's Github Contribution Chart" />
 </p>
 
 
