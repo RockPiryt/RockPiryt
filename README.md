@@ -20,9 +20,14 @@
 
 <h2 align="center">About Me</h2>
 
-Since July 2024, I have been working as a Cloud Software Development Engineer at Intel Technology Poland Sp. z o.o. (Internship)
+DevOps / Cloud-Native Engineer with hands-on experience in Kubernetes, containerized workloads, CI/CD automation, Linux systems, and observability tooling.
 
-In October 2025 I have successfully passed the Certified Kubernetes Application Developer (CKAD) exam.
+Currently working as a Cloud Software Development Engineer at Intel (Internship), contributing to Kubernetes-based platforms, monitoring pipelines, performance testing, automation tools, and system-level debugging in production environments.
+
+Focused on reliability, automation, and scalable cloud-native solutions, with practical experience in Bash and Python scripting, Prometheus/Grafana monitoring, logging, metrics, and distributed microservices.
+
+Certified Kubernetes Application Developer (CKAD) with AWS Cloud Practitioner certification, currently strengthening networking fundamentals through ongoing CCNA preparation.
+
 
 <h2 align="center">Mentorship</h2>
 Currently, I am deploying a web application on a Kubernetes cluster hosted on AWS, under the mentorship of a DevOps engineer who provides guidance and feedback on architecture, scalability, and best practices.
