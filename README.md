@@ -2,7 +2,7 @@
 
 <h3 align="center">Paulina Kimak <em>(Rock Piryt)</em> </h3>
 
-<h1 align="center"> Cloud Software Development Engineer at Intel</h1>
+<h1 align="center">DevOps Engineer @ Turnitin</h1>
 
 <p align="center">
   <sub>Cloud-Native • Kubernetes • CI/CD • Observability • Linux</sub>
@@ -20,13 +20,15 @@
 
 <h2 align="center">About Me</h2>
 
-DevOps / Cloud-Native Engineer with hands-on experience in Kubernetes, containerized workloads, CI/CD automation, Linux systems, and observability tooling.
+DevOps / Cloud-Native Engineer with hands-on experience in Kubernetes, AWS infrastructure, CI/CD automation, Linux systems, and observability tooling.
 
-Currently working as a Cloud Software Development Engineer at Intel (Internship), contributing to Kubernetes-based platforms, monitoring pipelines, performance testing, automation tools, and system-level debugging in production environments.
+Currently working as a DevOps Engineer at Turnitin, collaborating with Engineering, QA, and Support teams to deliver scalable and reliable solutions. Involved in building and maintaining infrastructure across cloud (AWS) and hybrid environments, using Infrastructure as Code tools such as Terraform and CloudFormation.
 
-Focused on reliability, automation, and scalable cloud-native solutions, with practical experience in Bash and Python scripting, Prometheus/Grafana monitoring, logging, metrics, and distributed microservices.
+Previously worked as a Cloud Software Development Engineer Intern at Intel, contributing to Kubernetes-based platforms, monitoring pipelines, performance testing, automation tools, and system-level debugging in production environments.
 
-Certified Kubernetes Application Developer (CKAD) with AWS Cloud Practitioner certification, currently strengthening networking fundamentals through ongoing CCNA preparation.
+Focused on reliability, automation, and high availability, with practical experience in Bash and Python scripting, Prometheus/Grafana monitoring, logging, metrics, and distributed microservices.
+
+Certified Kubernetes Application Developer (CKAD) and AWS Cloud Practitioner, currently strengthening networking fundamentals through CCNA preparation.
 
 
 <h2 align="center">Mentorship</h2>
