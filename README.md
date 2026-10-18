@@ -97,7 +97,10 @@ My next professional goal is to earn the AWS Certified Solutions Architect certi
   </a>
   <br/>
   <sub><b>CCNA</b> — Cisco Certified Network Associate</sub>
+  <br/>
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.credly.com/badges/70ff0472-38fd-4a7b-b2a1-0d712c3d2fd3/public_url" target="_blank">
@@ -113,7 +116,7 @@ My next professional goal is to earn the AWS Certified Solutions Architect certi
   </a>
 
   <br/>
-  <sub><b>CCNA</b> — 2/3 courses completed (badges earned)</sub>
+  <sub><b>CCNA</b> — 3/3 courses completed (badges earned)</sub>
 </div>
 
 <h2 align="center">Languages and Tools</h2>
