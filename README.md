@@ -28,7 +28,9 @@ Previously worked as a Cloud Software Development Engineer Intern at Intel, cont
 
 Focused on reliability, automation, and high availability, with practical experience in Bash and Python scripting, Prometheus/Grafana monitoring, logging, metrics, and distributed microservices.
 
-Certified Kubernetes Application Developer (CKAD) and AWS Cloud Practitioner, currently strengthening networking fundamentals through CCNA preparation.
+Certifications: Certified Kubernetes Application Developer (CKAD), AWS Certified Cloud Practitioner, and Cisco CCNA. Now I am preparing for the AWS Certified Solutions Architect Associate certification 
+
+Besides that I am learning Ansible to further develop my skills in configuration management and infrastructure automation.
 
 
 <h2 align="center">Mentorship</h2>
@@ -50,10 +52,9 @@ This setup allows me to apply DevOps best practices, automate deployments, and g
 
 
 <h2 align="center">AWS interest</h2>
-I have a deep interest in cloud technologies. In August 2023, I successfully passed the official AWS exam, earning the AWS Certified Cloud Practitioner certification.
-My next professional goal is to earn the AWS Certified Solutions Architect certification and continue developing towards a Platform Engineer / DevOps role.
+I have a deep interest in cloud technologies.In August 2023, I successfully passed the official AWS exam, earning the AWS Certified Cloud Practitioner certification.
 
-To achieve my target, I participate in official AWS Cloud Quests and create real projects using AWS services. For serverless applications, I utilize Lambda, API Gateway, and DynamoDB. For standard applications, I deploy EC2 instances and RDS databases.
+My next professional goal is to earn the AWS Certified Solutions Architect certification. To achieve my target, I participate in official AWS Cloud Quests and create real projects using AWS services. For serverless applications, I utilize Lambda, API Gateway, and DynamoDB. For standard applications, I deploy EC2 instances and RDS databases.
 
 
 <h2 align="center">My achievements</h2>
@@ -91,6 +92,18 @@ To achieve my target, I participate in official AWS Cloud Quests and create real
 
 <h3 align="center">Cisco</h3>
 <div align="center">
+  <a href="https://www.credly.com/badges/1ab4fe7f-b06b-4422-af4c-6760b76070b5/public_url" target="_blank">
+    <img src="ccna-badge.png" alt="CCNA" width="120" />
+  </a>
+  <br/>
+  <sub><b>CCNA</b> — Cisco Certified Network Associate</sub>
+</div>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/70ff0472-38fd-4a7b-b2a1-0d712c3d2fd3/public_url" target="_blank">
+    <img src="ccna-security.png" alt="CCNA: Enterprise Networking, Security, and Automation" width="120" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/3db11f42-c471-4d8d-ae85-1c43516317fe/public_url" target="_blank">
     <img src="ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="120" />
   </a>
@@ -120,6 +133,7 @@ To achieve my target, I participate in official AWS Cloud Quests and create real
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
